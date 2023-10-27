@@ -256,7 +256,7 @@ The **Inspection** app provides following capabilities:
 
 The app greets you based on your time of the day. If Planner is integrated from the manager app, statistics of the Planner tasks and all inspections for the last seven days are displayed.
 
-![Home screen with Planner.](https://github.com/microsoft/teams-powerapps-app-templates/Inspection/Documentation/media/inspection/home-screen-with-planner.png "Home screen with Planner")
+![Home screen with Planner.](https://github.com/microsoft/teams-powerapps-app-templates/blob/main/Inspection/Documentation/media/inspection/home-screen-with-planner.png "Home screen with Planner")
 
 If Planner isn't integrated from the manager app, a screen as shown in the following image is displayed when you select **Open Tasks**. Selecting **Close** takes you back to the previous screen.
 
